@@ -1,9 +1,13 @@
+import { Header } from "./_components/Pages/Header";
+import { HeroSection } from "./_components/Pages/HeroSection";
+
  
 
 export default function Home() {
   return (
-    <div className="text-center">
-       home Page
-    </div>
+     <main>
+      <Header/>
+      <HeroSection/>
+     </main>
   );
 }
