@@ -20,9 +20,9 @@ export default function Navbar() {
 
             {/* USER, WISHLIST, ACCOUNT BUTTONS */}
             <div className="flex gap-3">
-                <Image src={"/navbar/user1.png"} alt="user" width={100} height={100} className="w-14 h-14 rounded-full"/>
-                <Image src={"/navbar/wishlist.png"} alt="user" width={100} height={100} className="w-14 h-14 rounded-full"/>
-                <Image src={"/navbar/shop.png"} alt="user" width={100} height={100} className="w-14 h-14 rounded-full"/>
+                <Image src={"/navbar/user1.png"} alt="user" width={100} height={100} className="w-16 h-16 rounded-full"/>
+                <Image src={"/navbar/user1.png"} alt="user" width={100} height={100} className="w-16 h-16 rounded-full"/>
+                <Image src={"/navbar/user1.png"} alt="user" width={100} height={100} className="w-16 h-16 rounded-full"/>
                 
             </div>
 
