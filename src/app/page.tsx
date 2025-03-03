@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      HELLO
+      HELLO MY NAME IS ANURAG
     </div>
   );
 }
