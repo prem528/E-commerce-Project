@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      HELLO MY NAME IS ANURAG
+      HELLO react 
     </div>
   );
 }
