@@ -42,7 +42,6 @@ export default function Home() {
       </div>
       <ShopCategories/>
       <FurnitureRange/>
-      
     </main>
   );
 }

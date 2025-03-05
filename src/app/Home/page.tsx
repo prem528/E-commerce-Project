@@ -95,7 +95,7 @@ export default function Home() {
                 src="/homepage/furniture.png" // Ensure the image is placed in the public folder or use an imported path
                 alt="Jodhpur Dining Set"
                 layout="fill"
-                objectFit="cover"
+                 
                 className="rounded-lg"
               />
             </div>
@@ -110,7 +110,7 @@ export default function Home() {
                 src="/homepage/furniture.png" // Ensure the image is placed in the public folder or use an imported path
                 alt="Jodhpur Dining Set"
                 layout="fill"
-                objectFit="cover"
+                 
                 className="rounded-lg"
               />
             </div>
@@ -125,7 +125,7 @@ export default function Home() {
                 src="/homepage/furniture.png" // Ensure the image is placed in the public folder or use an imported path
                 alt="Jodhpur Dining Set"
                 layout="fill"
-                objectFit="cover"
+                
                 className="rounded-lg"
               />
             </div>
@@ -140,7 +140,7 @@ export default function Home() {
                 src="/homepage/furniture.png" // Ensure the image is placed in the public folder or use an imported path
                 alt="Jodhpur Dining Set"
                 layout="fill"
-                objectFit="cover"
+                 
                 className="rounded-lg"
               />
             </div>
@@ -155,7 +155,7 @@ export default function Home() {
                 src="/homepage/furniture.png" // Ensure the image is placed in the public folder or use an imported path
                 alt="Jodhpur Dining Set"
                 layout="fill"
-                objectFit="cover"
+                 
                 className="rounded-lg"
               />
             </div>
