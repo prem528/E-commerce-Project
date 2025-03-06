@@ -1,9 +1,10 @@
-import { HeroCarousel } from "@/app/furnitures/hero-carousel";
 import Navbar from "@/customComponents/navbar";
+import { HeroCarousel } from "@/app/furnitures/hero-carousel";
 import { NavigationBar } from "@/customComponents/navigation-bar";
 import { NewArrivals } from "@/app/furnitures/new-arrivals";
 import { ShopCategories } from "@/app/furnitures/shop-categories";
 import { FurnitureRange } from "./furniture-range";
+import Footer from "@/customComponents/Footer";
 
 const heroSlides = [
   {
@@ -42,6 +43,7 @@ export default function Home() {
       </div>
       <ShopCategories/>
       <FurnitureRange/>
+      <Footer/>
     </main>
   );
 }
