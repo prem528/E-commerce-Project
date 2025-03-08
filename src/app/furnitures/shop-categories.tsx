@@ -22,7 +22,7 @@ const categories: CategoryItem[] = [
       "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
       "https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
     ],
-    href: "/categories/chair-and-table-sets"
+    href: "/productpage"
   },
   {
     title: "STYLISH BED SETS",
@@ -34,7 +34,7 @@ const categories: CategoryItem[] = [
       "https://images.unsplash.com/photo-1505693314120-0d443867891c?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
       "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
     ],
-    href: "/categories/stylish-bed-sets"
+    href: "/productpage"
   },
   {
     title: "ROYAL SOFA SETS",
@@ -46,7 +46,7 @@ const categories: CategoryItem[] = [
       "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
       "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
     ],
-    href: "/categories/royal-sofa-sets"
+    href: "/productpage"
   },
   {
     title: "EXCLUSIVE CUPBOARDS",
@@ -58,7 +58,7 @@ const categories: CategoryItem[] = [
       "https://images.unsplash.com/photo-1540518614846-7eded433c457?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
       "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
     ],
-    href: "/categories/exclusive-cupboards"
+    href: "/productpage"
   }
 ];
 

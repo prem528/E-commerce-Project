@@ -15,49 +15,49 @@ const furnitureItems: FurnitureItem[] = [
     title: "4 CHAIR 1 TABLE SET",
     price: "7999/- INR",
     image: "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/chair-table-set"
+    href: "/productpage"
   },
   {
     title: "WOODEN FINISH BED SET",
     price: "13999/- INR",
     image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/wooden-bed-set"
+    href: "/productpage"
   },
   {
     title: "SOFA AND TABLE SET",
     price: "24999/- INR",
     image: "https://images.unsplash.com/photo-1550254478-ead40cc54513?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/sofa-table-set"
+    href: "/productpage"
   },
   {
     title: "JODHPURI CUPBOARDS",
     price: "8999/- INR",
     image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/jodhpuri-cupboards"
+    href: "/productpage"
   },
   {
     title: "SOFA AND TABLE SET",
     price: "24999/- INR",
     image: "https://images.unsplash.com/photo-1550254478-ead40cc54513?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/sofa-table-set"
+    href: "/productpage"
   },
   {
     title: "JODHPURI CUPBOARDS",
     price: "8999/- INR",
     image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/jodhpuri-cupboards"
+    href: "/productpage"
   },
   {
     title: "SOFA AND TABLE SET",
     price: "24999/- INR",
     image: "https://images.unsplash.com/photo-1550254478-ead40cc54513?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/sofa-table-set"
+    href: "/productpage"
   },
   {
     title: "JODHPURI CUPBOARDS",
     price: "8999/- INR",
     image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-    href: "/products/jodhpuri-cupboards"
+    href: "/productpage"
   }
 ];
 

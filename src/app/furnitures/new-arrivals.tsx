@@ -6,28 +6,28 @@ const products = [
     title: "Chair Table Set",
     price: "7999/ INR",
     image: "/funitures/furniture.avif",
-    href: "/products"
+    href: "/productpage"
   },
   {
     id: 2,
     title: "HDSBVH",
     price: "8999/ INR",
     image: "/funitures/furniture1.avif",
-    href: "/products"
+    href: "/productpage"
   },
   {
     id: 3,
     title: "PURE WOODEN FINISH",
     price: "10999/ INR",
     image: "/funitures/furniture2.avif",
-    href: "/products"
+    href: "/productpage"
   },
   {
     id: 4,
     title: "Outdoor Set",
     price: "12999/ INR",
     image: "/funitures/furniture3.avif",
-    href: "/products"
+    href: "/productpage"
   }
 ];
 
