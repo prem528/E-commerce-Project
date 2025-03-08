@@ -3,8 +3,9 @@ import React, { useState }  from 'react';
 import { Heart, Truck, Shield, Package, Timer } from 'lucide-react';
 import { ColorSelector } from './ColorSelector';
 import { StarRating } from './StarRating';
-import type { Product, Review } from '../../types';
+import type { Product  } from '../../types';
 import { ProductSection } from './ProductSection';
+import Image from 'next/image';
 
 interface ProductSectionType {
   title: string;
@@ -203,7 +204,7 @@ function DetailsPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Product Images */}
           <div className="space-y-4">
-            <img
+            <Image
               src="https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&q=80"
               alt="Dining Set"
               className="w-full rounded-lg shadow-lg"
